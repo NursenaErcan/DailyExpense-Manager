@@ -34,13 +34,7 @@ dotnet run
 
 The API will start and apply pending EF Core migrations automatically.
 
-### Default admin user
 
-The backend seeds an admin account on startup:
-
-- Email: `nursena1@gmail.com`
-- Username: `nursena1`
-- Password: `ahn003632`
 
 ## Run the frontend
 
